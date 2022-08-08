@@ -1,7 +1,5 @@
 package com.yeahbutstill.demospring.bootdesignpatterns.creational.builder;
 
-import com.yeahbutstill.demospring.bootdesignpatterns.creational.prototype.Employe;
-import com.yeahbutstill.demospring.bootdesignpatterns.creational.prototype.Position;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Scope;
